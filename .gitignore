@@ -3,9 +3,12 @@ node_modules/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
-paper/qa/
+paper/qa*/
 *.aux
 *.log
+!results/*.log
+paper/DiGRA_2026_Template.docx
+paper/base.docx
 *.out
 *.toc
 *.synctex.gz

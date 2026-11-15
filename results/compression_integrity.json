@@ -1,0 +1,26 @@
+[
+  {
+    "path": "results/metric_rows.csv.gz",
+    "uncompressed_bytes": 1871778,
+    "compressed_bytes": 68255,
+    "uncompressed_sha256": "d31cd70ec5583959dce2dc93354b56b3140ead7a847c663481e54bd23e0a3c28"
+  },
+  {
+    "path": "results/ablation_rows.csv.gz",
+    "uncompressed_bytes": 3836198,
+    "compressed_bytes": 117275,
+    "uncompressed_sha256": "945441f23c5b06dd7f8df8cc28e6a9977695fd645a024f5a741d1d114ee881dc"
+  },
+  {
+    "path": "results/label_noise.csv.gz",
+    "uncompressed_bytes": 8273636,
+    "compressed_bytes": 277669,
+    "uncompressed_sha256": "8104285733e6b1a3ab20a03f931c6cd9c0c2db50556ba018e3ce4cdbd3326740"
+  },
+  {
+    "path": "data/generated/mutation_manifest.jsonl.gz",
+    "uncompressed_bytes": 6130431,
+    "compressed_bytes": 131036,
+    "uncompressed_sha256": "a6547b4810206e373619c19cc882191e0cbffca130853ffa5ac0a298a7afee15"
+  }
+]

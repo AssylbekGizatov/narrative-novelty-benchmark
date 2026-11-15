@@ -1,0 +1,9 @@
+{
+  "contexts": 234,
+  "edges": 679,
+  "attempted_rows": 11466,
+  "eligible_rows": 10277,
+  "excluded_noop_rows": 1189,
+  "eligible_structural_rows": 9341,
+  "negative_control_rows": 936
+}

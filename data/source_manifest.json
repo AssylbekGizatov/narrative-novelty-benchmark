@@ -1,0 +1,26 @@
+{
+  "retrieved_on": "2026-11-15",
+  "repository": "https://github.com/inkle/ink-library",
+  "commit": "aee1e57ceacefcea40830dfa2bc15c7d96e6c95b",
+  "license": "MIT",
+  "files": [
+    {
+      "id": "the_intercept",
+      "upstream_path": "Stories/The Intercept/TheIntercept.ink",
+      "author": "inkle",
+      "title": "The Intercept",
+      "local_path": "data/raw/the_intercept.ink",
+      "sha256": "e89c3763d72d1a0ee4ea59e48881a723bac1c540fdae5592ccbb9563a5b89b84",
+      "bytes": 100535
+    },
+    {
+      "id": "emoji",
+      "upstream_path": "Stories/LD41 Emoji/LD41 Emoji.ink",
+      "author": "Pat Scott",
+      "title": "LD41 Emoji (alarm-clock title)",
+      "local_path": "data/raw/emoji.ink",
+      "sha256": "2a93efe571e1ca8fc05ce30f228d911aa032eb1ad743cdf274a37f69e7c5227f",
+      "bytes": 15362
+    }
+  ]
+}

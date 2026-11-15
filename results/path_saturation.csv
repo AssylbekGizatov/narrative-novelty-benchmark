@@ -1,0 +1,7 @@
+family,length,transition_distance,path_distance,endpoint_distance
+chain,4,0.6666666666666667,1.0,0.0
+chain,8,0.4,1.0,0.0
+chain,16,0.2222222222222222,1.0,0.0
+chain,32,0.11764705882352944,1.0,0.0
+chain,64,0.06060606060606055,1.0,0.0
+chain,128,0.03076923076923077,1.0,0.0
