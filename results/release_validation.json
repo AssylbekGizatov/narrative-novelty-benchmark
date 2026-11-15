@@ -1,0 +1,55 @@
+{
+  "study_facts": {
+    "contexts": 234,
+    "edges": 679,
+    "attempted_rows": 11466,
+    "eligible_rows": 10277,
+    "excluded_noop_rows": 1189,
+    "eligible_structural_rows": 9341,
+    "negative_control_rows": 936
+  },
+  "unit_tests": {
+    "passed": 9,
+    "failed": 0
+  },
+  "replay": {
+    "checked": 679,
+    "failures": 0
+  },
+  "pdfs": [
+    {
+      "file": "paper/Novelty_Benchmark_DiGRA.pdf",
+      "pages": 10,
+      "bytes": 361923,
+      "sha256": "b48fc3bff3379920584b9e66396a942f20db287761c82d62b2026276e62862d5"
+    },
+    {
+      "file": "paper/Novelty_Benchmark_DiGRA_Anonymous.pdf",
+      "pages": 10,
+      "bytes": 361227,
+      "sha256": "d9dd39986e3c40de5ace5700f4a05c06dc44de11b4955e2f2550c3fff0691492"
+    }
+  ],
+  "notebooks": [
+    {
+      "file": "notebooks/03_counterexamples_and_robustness.ipynb",
+      "executed_code_cells": 6,
+      "execution_method": "In-process Python AST execution with IPython rich display capture; no Jupyter socket.",
+      "errors": 0
+    },
+    {
+      "file": "notebooks/01_corpus_and_runtime.ipynb",
+      "executed_code_cells": 5,
+      "execution_method": "In-process Python AST execution with IPython rich display capture; no Jupyter socket.",
+      "errors": 0
+    },
+    {
+      "file": "notebooks/02_metrics_and_results.ipynb",
+      "executed_code_cells": 6,
+      "execution_method": "In-process Python AST execution with IPython rich display capture; no Jupyter socket.",
+      "errors": 0
+    }
+  ],
+  "native_word_equations": 7,
+  "regional_abstract_words": 243
+}

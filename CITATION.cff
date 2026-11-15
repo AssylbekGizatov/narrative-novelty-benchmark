@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite this research software and consult the manuscript before interpreting a metric."
+title: "Benchmarking Structural Novelty Loss in Human–AI Game Narrative Authoring"
+authors:
+  - family-names: Gizatov
+    given-names: Assylbek
+    orcid: "https://orcid.org/0009-0009-2557-0767"
+version: 0.1.0
+date-released: 2026-11-15
+license: MIT
+type: software
+abstract: "A reproducible measurement audit using two licensed Ink games, deterministic local interventions and procedural counterexamples. No human–AI authoring treatment effect is estimated."
+keywords:
+  - interactive narrative
+  - human-AI co-authorship
+  - novelty measurement
+  - metamorphic testing
+repository-code: "https://github.com/AssylbekGizatov/narrative-novelty-benchmark"

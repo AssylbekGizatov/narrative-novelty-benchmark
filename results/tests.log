@@ -1,0 +1,14 @@
+test_alias_duplication_invariance (test_metrics.MeasurementTests.test_alias_duplication_invariance) ... ok
+test_drop_has_direction (test_metrics.MeasurementTests.test_drop_has_direction) ... ok
+test_emoji_word_failure_is_visible (test_metrics.MeasurementTests.test_emoji_word_failure_is_visible) ... ok
+test_extracted_integrity (test_metrics.MeasurementTests.test_extracted_integrity) ... ok
+test_jaccard_boundaries (test_metrics.MeasurementTests.test_jaccard_boundaries) ... ok
+test_missing_action_penalty (test_metrics.MeasurementTests.test_missing_action_penalty) ... ok
+test_no_source_mutation (test_metrics.MeasurementTests.test_no_source_mutation) ... ok
+test_permutation_at_every_seed_preserves_support (test_metrics.MeasurementTests.test_permutation_at_every_seed_preserves_support) ... ok
+test_permutation_is_not_breadth_loss (test_metrics.MeasurementTests.test_permutation_is_not_breadth_loss) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.028s
+
+OK
